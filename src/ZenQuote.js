@@ -20,6 +20,10 @@ class ZenQuote extends Component{
         });
     }
 
+    componentDidUpdate(){
+        console.log("inside component id update")
+    }
+
     render(){
         return(
             <div>
