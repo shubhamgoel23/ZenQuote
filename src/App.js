@@ -1,10 +1,10 @@
-
+import ZenQuote from './ZenQuote'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      Test
+      <ZenQuote />
     </div>
   );
 }
