@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ZenQuote/static/css/main.229d0cf6.chunk.css",
+    "main.js": "/ZenQuote/static/js/main.f1384f59.chunk.js",
+    "main.js.map": "/ZenQuote/static/js/main.f1384f59.chunk.js.map",
+    "runtime-main.js": "/ZenQuote/static/js/runtime-main.78eeba4f.js",
+    "runtime-main.js.map": "/ZenQuote/static/js/runtime-main.78eeba4f.js.map",
+    "static/js/2.054e0d8b.chunk.js": "/ZenQuote/static/js/2.054e0d8b.chunk.js",
+    "static/js/2.054e0d8b.chunk.js.map": "/ZenQuote/static/js/2.054e0d8b.chunk.js.map",
+    "static/js/3.76282c56.chunk.js": "/ZenQuote/static/js/3.76282c56.chunk.js",
+    "static/js/3.76282c56.chunk.js.map": "/ZenQuote/static/js/3.76282c56.chunk.js.map",
+    "index.html": "/ZenQuote/index.html",
+    "static/css/main.229d0cf6.chunk.css.map": "/ZenQuote/static/css/main.229d0cf6.chunk.css.map",
+    "static/js/2.054e0d8b.chunk.js.LICENSE.txt": "/ZenQuote/static/js/2.054e0d8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78eeba4f.js",
+    "static/js/2.054e0d8b.chunk.js",
+    "static/css/main.229d0cf6.chunk.css",
+    "static/js/main.f1384f59.chunk.js"
+  ]
+}
