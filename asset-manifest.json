@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ZenQuote/static/css/main.5b4a656a.chunk.css",
-    "main.js": "/ZenQuote/static/js/main.fa3cb243.chunk.js",
-    "main.js.map": "/ZenQuote/static/js/main.fa3cb243.chunk.js.map",
+    "main.js": "/ZenQuote/static/js/main.9a6dccb1.chunk.js",
+    "main.js.map": "/ZenQuote/static/js/main.9a6dccb1.chunk.js.map",
     "runtime-main.js": "/ZenQuote/static/js/runtime-main.ab56eb94.js",
     "runtime-main.js.map": "/ZenQuote/static/js/runtime-main.ab56eb94.js.map",
     "static/js/2.bfb9b504.chunk.js": "/ZenQuote/static/js/2.bfb9b504.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ab56eb94.js",
     "static/js/2.bfb9b504.chunk.js",
     "static/css/main.5b4a656a.chunk.css",
-    "static/js/main.fa3cb243.chunk.js"
+    "static/js/main.9a6dccb1.chunk.js"
   ]
 }
