@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ZenQuote/static/css/main.229d0cf6.chunk.css",
-    "main.js": "/ZenQuote/static/js/main.2a273ea8.chunk.js",
-    "main.js.map": "/ZenQuote/static/js/main.2a273ea8.chunk.js.map",
-    "runtime-main.js": "/ZenQuote/static/js/runtime-main.dcc5faba.js",
-    "runtime-main.js.map": "/ZenQuote/static/js/runtime-main.dcc5faba.js.map",
+    "main.css": "/ZenQuote/static/css/main.5b4a656a.chunk.css",
+    "main.js": "/ZenQuote/static/js/main.fa3cb243.chunk.js",
+    "main.js.map": "/ZenQuote/static/js/main.fa3cb243.chunk.js.map",
+    "runtime-main.js": "/ZenQuote/static/js/runtime-main.ab56eb94.js",
+    "runtime-main.js.map": "/ZenQuote/static/js/runtime-main.ab56eb94.js.map",
     "static/js/2.bfb9b504.chunk.js": "/ZenQuote/static/js/2.bfb9b504.chunk.js",
     "static/js/2.bfb9b504.chunk.js.map": "/ZenQuote/static/js/2.bfb9b504.chunk.js.map",
-    "static/js/3.643391c0.chunk.js": "/ZenQuote/static/js/3.643391c0.chunk.js",
-    "static/js/3.643391c0.chunk.js.map": "/ZenQuote/static/js/3.643391c0.chunk.js.map",
+    "static/js/3.01873f94.chunk.js": "/ZenQuote/static/js/3.01873f94.chunk.js",
+    "static/js/3.01873f94.chunk.js.map": "/ZenQuote/static/js/3.01873f94.chunk.js.map",
     "index.html": "/ZenQuote/index.html",
-    "static/css/main.229d0cf6.chunk.css.map": "/ZenQuote/static/css/main.229d0cf6.chunk.css.map",
+    "static/css/main.5b4a656a.chunk.css.map": "/ZenQuote/static/css/main.5b4a656a.chunk.css.map",
     "static/js/2.bfb9b504.chunk.js.LICENSE.txt": "/ZenQuote/static/js/2.bfb9b504.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dcc5faba.js",
+    "static/js/runtime-main.ab56eb94.js",
     "static/js/2.bfb9b504.chunk.js",
-    "static/css/main.229d0cf6.chunk.css",
-    "static/js/main.2a273ea8.chunk.js"
+    "static/css/main.5b4a656a.chunk.css",
+    "static/js/main.fa3cb243.chunk.js"
   ]
 }
